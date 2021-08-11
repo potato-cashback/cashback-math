@@ -1,1 +1,1 @@
-# potato-cashback-math
+# potato cashback math
